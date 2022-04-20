@@ -1,0 +1,21 @@
+{
+    "name": "cool-blue",
+    "displayName": "cool blue",
+    "description": "A color theme I just made",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cool Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cool Blue-color-theme.json"
+            }
+        ]
+    }
+}
