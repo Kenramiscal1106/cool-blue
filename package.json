@@ -1,8 +1,10 @@
 {
-    "name": "cool-blue",
-    "displayName": "cool blue",
-    "description": "A color theme I just made",
-    "version": "0.0.1",
+    "name": "cool-blue-code",
+    "displayName": "cool blue code",
+    "description": "A color theme I just made for people who likes blue a lot",
+    "publisher": "Kenramiscal1106",
+    "version": "1.0.0",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.66.0"
     },
