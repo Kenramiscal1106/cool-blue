@@ -8,6 +8,13 @@
     "engines": {
         "vscode": "^1.66.0"
     },
+    "keywords": [
+        "theme",
+        "color theme",
+        "color",
+        "code blue",
+        "cool blue"
+    ],
     "categories": [
         "Themes"
     ],
