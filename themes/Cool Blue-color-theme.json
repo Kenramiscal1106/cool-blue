@@ -18,18 +18,18 @@
 		"editor.foreground": "#CFDEFC",
 		"editorGroupHeader.tabsBackground": "#0C1423",
 		// Dropdown
+		"dropdown.background": "#0c1423",
+		"dropdown.foreground": "#CFDEFC",
 		/*
-    dropdown.background: Dropdown background.
     dropdown.listBackground: Dropdown list background.
     dropdown.border: Dropdown border.
-    dropdown.foreground: Dropdown foreground.
 		*/
 		// Input
+		"input.background":"#0c1423",
+		"input.border": "#192B4D",
+		"input.foreground": "#cfdefc",
+		"input.placeholderForeground": "#2D4A86",
 		/* 
-    input.background: Input box background.
-    input.border: Input box border.
-    input.foreground: Input box foreground.
-    input.placeholderForeground: Input box foreground color for placeholder text.
     inputOption.activeBackground: Background color of activated options in input fields.
     inputOption.activeBorder: Border color of activated options in input fields.
     inputOption.activeForeground: Foreground color of activated options in input fields.
@@ -47,6 +47,8 @@
 		//Titlebar
 		"titleBar.activeBackground": "#0F1A2E",
 		"titleBar.inactiveBackground": "#0C1423",
+		"titleBar.activeForeground": "#cfdefc",
+		"titleBar.inactiveForeground": "#cfdefcb6",
 		//Status bar
 		"statusBar.foreground": "#CFDEFC",
 		"activityBarBadge.background": "#264073",
@@ -67,7 +69,10 @@
 		"editorCursor.foreground": "#264073",
 		"editorCursor.background": "#cfdefc",
 		// Menu
-		"menu.background": "#0D1526"
+		"menu.background": "#0D1526",
+		"menu.selectionBackground": "#192B4D",
+		"menu.foreground": "#cfdefc",
+		"menu.separatorBackground": "#cfdefc93",
 	},
 	"tokenColors": [
 		{
