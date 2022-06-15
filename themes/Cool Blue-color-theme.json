@@ -1,10 +1,73 @@
 {
 	"name": "Cool Blue",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		// Button colors
+		"button.background": "#264073",
+		"button.foreground":"#cfdefc",
+		"button.hoverBackground": "#264073",
+		"button.secondaryForeground": "#264073",
+		"button.secondaryBackground": "#cfdefc",
+		"button.secondaryHoverBackground": "#264073",
+		/*
+    checkbox.background: Background color of checkbox widget.
+    checkbox.foreground: Foreground color of checkbox widget.
+    checkbox.border: Border color of checkbox widget.
+		*/
+		//Editor
+		"editor.background":"#0F1A2E",
+		"editor.foreground": "#CFDEFC",
+		"editorGroupHeader.tabsBackground": "#0C1423",
+		// Dropdown
+		/*
+    dropdown.background: Dropdown background.
+    dropdown.listBackground: Dropdown list background.
+    dropdown.border: Dropdown border.
+    dropdown.foreground: Dropdown foreground.
+		*/
+		// Input
+		/* 
+    input.background: Input box background.
+    input.border: Input box border.
+    input.foreground: Input box foreground.
+    input.placeholderForeground: Input box foreground color for placeholder text.
+    inputOption.activeBackground: Background color of activated options in input fields.
+    inputOption.activeBorder: Border color of activated options in input fields.
+    inputOption.activeForeground: Foreground color of activated options in input fields.
+    inputOption.hoverBackground: Background color of activated options in input fields.
+    inputValidation.errorBackground: Input validation background color for error severity.
+    inputValidation.errorForeground: Input validation foreground color for error severity.
+    inputValidation.errorBorder: Input validation border color for error severity.
+    inputValidation.infoBackground: Input validation background color for information severity.
+    inputValidation.infoForeground: Input validation foreground color for information severity.
+    inputValidation.infoBorder: Input validation border color for information severity.
+    inputValidation.warningBackground: Input validation background color for information warning.
+    inputValidation.warningForeground: Input validation foreground color for warning severity.
+    inputValidation.warningBorder: Input validation border color for warning severity.
+*/
+		//Titlebar
+		"titleBar.activeBackground": "#0F1A2E",
+		"titleBar.inactiveBackground": "#0C1423",
+		//Status bar
+		"statusBar.foreground": "#CFDEFC",
+		"activityBarBadge.background": "#264073",
+		"statusBar.background": "#0F1A2E",
+		//Sidebar
+		"sideBarTitle.foreground": "#bbbbbb",
+		"sideBar.background": "#0F1A2E",
+		//Activity bar
+		"activityBar.background": "#0F1A2E",
+		//Tab
+		"tab.inactiveBackground": "#0C1423",
+		"tab.border": "#03060a",
+		// Editor widget
+		"editorWidget.background": "#0C1423",
+		"editorWidget.foreground": "#cfdefc",
+		"editorHoverWidget.background": "#0C1423",
+		// Editor cursor
+		"editorCursor.foreground": "#264073",
+		"editorCursor.background": "#cfdefc",
+		// Menu
+		"menu.background": "#0D1526"
 	},
 	"tokenColors": [
 		{
